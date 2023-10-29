@@ -1,5 +1,5 @@
 // Set deadline date/time
-const utcDeadline = new Date(Date.UTC(2023, 9, 28, 12, 0))
+const utcDeadline = new Date(Date.UTC(2027, 9, 28, 12, 0))
 
 // 2. Add timezone offset
 utcDeadline.setHours(utcDeadline.getHours() - 5); 
